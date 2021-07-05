@@ -176,6 +176,7 @@ tutorat ou de dispensation de cours;
 5° tout autre service ou soutien de même nature;
 
 # Alinéa 2
+
 QUE, lorsque la tenue d’un registre de participants ou de clients est
 prévue dans le présent décret :
 ==========
@@ -311,16 +312,16 @@ formation générale des adultes et dans les salles d’audience, une distance m
 1,5 mètre soit maintenue latéralement entre les étudiants, les élèves ou les personnes
 du public lorsqu’ils sont assis, à moins :
 
-1° qu’il s’agisse d’occupants d’une même résidence privée ou de ce
-qui en tient lieu;
+    1° qu’il s’agisse d’occupants d’une même résidence privée ou de ce
+    qui en tient lieu;
 
-2° que l’une des personnes reçoive d’une autre personne un service
-ou son soutien;
+    2° que l’une des personnes reçoive d’une autre personne un service
+    ou son soutien;
 
-3° qu’il s’agisse d’élèves de l’éducation préscolaire ou de
-l’enseignement primaire ou secondaire de la formation générale des jeunes d’un même
-groupe, lorsqu’ils bénéficient de tout service offert par un centre de services scolaire, une
-commission scolaire ou un établissement d’enseignement privé;
+    3° qu’il s’agisse d’élèves de l’éducation préscolaire ou de
+    l’enseignement primaire ou secondaire de la formation générale des jeunes d’un même
+    groupe, lorsqu’ils bénéficient de tout service offert par un centre de services scolaire, une
+    commission scolaire ou un établissement d’enseignement privé;
 
 # Alinéa 7
 
@@ -331,11 +332,13 @@ pacifiquement :
   
 2° maintiennent entre elles une distance de deux mètres avec toute
 personne, sauf si une personne reçoit d’une autre personne un service ou son soutien;
+
+# Aliné 8
 QUE l’organisateur de tout rassemblement aux fins de l’exercice du
 droit de manifester pacifiquement soit tenu de prendre des mesures pour informer les
 participants qu’ils doivent porter un couvre-visage;
 
-# Alinéa 8 
+# Alinéa 9 
 
 QU’il soit interdit à l’exploitant d’un lieu qui accueille le public d’y
 admettre une personne qui ne porte pas un couvre-visage ou de tolérer qu’une personne
@@ -365,7 +368,8 @@ manger, ou à des fins d’identification;
 7° qu’elle y travaille ou y exerce sa profession;
 
 8° qu’il s’agisse d’une personne du public, d’un élève ou d’un étudiant
-qui se trouve dans un lieu visé au sixième alinéa, dans la mesure où les conditions qui y
+qui se trouve dans un lieu visé au sixième alinéa ou au paragraphe 14° du seizième
+alinéa, dans la mesure où les conditions qui y
 sont prévues sont respectées;
 
 9° qu’elle se trouve dans une salle d’audience sans être visée au
@@ -387,7 +391,7 @@ qu’elle respecte l’une des conditions suivantes :
     contagion de toute personne qui n’est ni un occupant d’une même résidence privée ou de
     ce qui en tient lieu, ni une personne qui lui fournit un service ou un soutien;
 
-# Alinéa 9 
+# Alinéa 10 
 
 QUE, malgré le paragraphe 7° de l’alinéa précédent :
 =====================
@@ -402,7 +406,7 @@ ou un ascenseur de l’immeuble sans porter un couvre-visage;
 accueille le public demeure soumise aux règles applicables en matière de santé et de
 sécurité du travail;
 
-# Alinéa 10 
+# Alinéa 11 
 
 QU’il soit interdit à l’exploitant d’un service de transport collectif par
 autobus, minibus, métro, bateau, train ou avion d’y admettre une personne qui ne porte
@@ -427,21 +431,21 @@ manger, ou à des fins d’identification;
 
 7° sur un traversier, qu’elle demeure à l’intérieur de son véhicule;
 
-# Alinéa 11
+# Alinéa 12
 
 QUE les interdictions prévues à l’alinéa précédent s’appliquent
 également, sous réserve des mêmes exceptions, au chauffeur d’un véhicule automobile
 utilisé à des fins de transport rémunéré de personnes autrement que dans le cadre de
 l’exploitation d’un service de transport collectif, sauf s’il s’agit de covoiturage;
 
-# Alinéa 12
+# Alinéa 13
 
 QUE la personne dont le lieu de travail habituel est un moyen de
 transport visé au onzième alinéa ou un véhicule automobile visé au douzième alinéa
 demeure soumise aux règles applicables en matière de santé et de sécurité du travail;
 
 
-# Alinéa 13 
+# Alinéa 14 
 
 QU’il soit interdit à toute personne qui ne porte pas un couvre-visage :
 =============
@@ -460,13 +464,13 @@ un véhicule automobile utilisé à des fins de transport rémunéré de personn
 s’agit de covoiturage, ou de se trouver dans un tel moyen de transport, à moins qu’elle
 soit visée par l’une des exceptions prévues au onzième alinéa;
 
-# Alinéa 14
+# Alinéa 15
 
 QUE, lorsqu’une prestation de travail peut être rendue à distance, le
 télétravail à partir d’une résidence principale ou de ce qui en tient lieu soit privilégié;
 
 
-# Alinéa 15  
+# Alinéa 16  
 QUE, malgré toute autre disposition contraire d’un décret ou d’un
 arrêté ministériel pris en application de l’article 123 de la Loi sur la santé publique
 (chapitre S-2.2), les mesures suivantes s’appliquent :
@@ -672,13 +676,13 @@ s’appliquent :
     a) chaque site ou, pour un circuit ou un parcours déambulatoire,
     chaque lieu de départ, d’arrivée ou d’attroupement :
 
-        i. accueille un maximum de 3 500 participants ou spectateurs;
+        i. accueille un maximum de 5 000 participants ou spectateurs;
 
         ii. est délimité par une barrière physique;
 
         iii. est non contigu avec tout autre site, lieu de départ, d’arrivée ou
         d’attroupement du même évènement ou de tout autre évènement, et des voies d’accès
-        ou d’attente séparées sont utilisées pour y accéder, sauf si un maximum de 3 500
+        ou d’attente séparées sont utilisées pour y accéder, sauf si un maximum de 5 000
         participants ou spectateurs se trouvent dans l’ensemble des sites et lieux;
 
         iv. sauf dans les cas prévus au sous-paragraphe c, est d’une superficie
@@ -753,7 +757,7 @@ s’appliquent :
     a) il est possible d’assister à la présentation de films ou de toute forme
     de spectacle depuis une voiture;
 
-    b) un maximum de 3 500 personnes peuvent faire partie de
+    b) un maximum de 5 000 personnes peuvent faire partie de
     l’assistance;
 
     c) les voitures demeurent distancées de façon à assurer qu’une
@@ -902,7 +906,7 @@ ou d’y participer, sauf dans les situations suivantes :
 
     g) pour les activités d’un camp de vacances ou d’un camp de jour;
   
-# Alinéa 16
+# Alinéa 17
 
 QU’il soit interdit à quiconque :
 ============
@@ -914,13 +918,13 @@ présent décret;
 2° de se trouver dans un lieu lorsque le nombre maximal de personnes
 pouvant s’y trouver en vertu du présent décret est dépassé;
 
-# Alinéa 17
+# Alinéa 18
 QUE le présent décret remplace le décret numéro 799-2021 du
 9 juin 2021, modifié par les arrêtés numéros 2021-043 du 11 juin 2021, 2021-044 du
 14 juin 2021, 2021-046 du 16 juin 2021, 2021-047 du 18 juin 2021 et 2021-048 du
 23 juin 2021;
 
-# Alinéa 18
+# Alinéa 19
 QUE soient abrogés :
 
 1° le onzième alinéa du décret numéro 566-2020 du 27 mai 2020,
@@ -970,10 +974,10 @@ du 28 octobre 2020, 2020-086 du 1er novembre 2020, 2020-087 du 4 novembre 2020,
 2020-106 du 20 décembre 2020, 2021-001 du 15 janvier 2021, 2021-003 du
 21 janvier 2021, 2021-004 du 27 janvier 2021 et 2021-005 du 28 janvier 2021;
 
-# Alinéa 19
+# Alinéa 20
 QUE le ministre de la Santé et des Services sociaux soit habilité à
 ordonner toute modification ou toute précision relative aux mesures prévues par le présent
 décret;
 
-# Alinéa 20
+# Alinéa 21
 QUE le présent décret prenne effet le 28 juin 2021.
