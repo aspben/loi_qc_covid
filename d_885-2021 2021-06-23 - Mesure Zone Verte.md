@@ -471,6 +471,7 @@ télétravail à partir d’une résidence principale ou de ce qui en tient lieu
 
 
 # Alinéa 16  
+
 QUE, malgré toute autre disposition contraire d’un décret ou d’un
 arrêté ministériel pris en application de l’article 123 de la Loi sur la santé publique
 (chapitre S-2.2), les mesures suivantes s’appliquent :
@@ -704,11 +705,11 @@ s’appliquent :
 
         i. toute personne du public demeure assise à la place qui lui a été
         assignée, sauf lorsque le site est divisé en sections distinctes regroupant chacune un
-        maximum de 250 personnes et que chacune de ces sections :
+        maximum de 500 personnes et que chacune de ces sections :
 
             I) est délimitée par une barrière physique; 
             
-            II) est d’une superficie minimale de quatre mètres carrés par personne
+            II) est d’une superficie minimale de deux mètres carrés par personne
             du public qui s’y trouve;
 
             III) est séparée des autres sections par une distance minimale de deux
@@ -720,7 +721,7 @@ s’appliquent :
         ii. pour une projection cinématographique, une présentation d’arts de
         la scène, y compris une diffusion, une production, un tournage audiovisuel, un spectacle
         ou une présentation d’un entraînement ou d’un évènement sportif, une distance minimale
-        de 1,5 mètre est maintenue latéralement entre les personnes qui y assistent, à moins :
+        de 1 mètre est maintenue latéralement entre les personnes qui y assistent, à moins :
 
             I) qu’il s’agisse d’occupants d’une même résidence privée ou de ce qui
             en tient lieu;
@@ -761,7 +762,7 @@ s’appliquent :
     l’assistance;
 
     c) les voitures demeurent distancées de façon à assurer qu’une
-    distance de 1,5 mètre peut être respectée entre les personnes latéralement;
+    distance de 1 mètre peut être respectée entre les personnes latéralement;
 
 18° pour la pratique des jeux de quilles, de fléchettes, de billard ou
 d’autres jeux de même nature, ainsi que dans les arcades et, pour leurs activités
@@ -774,7 +775,7 @@ d’amusement, les centres récréatifs et les parcs aquatiques, l’exploitant 
 
 19° sauf dans une résidence privée ou ce qui en tient lieu, incluant le
 terrain, le balcon ou la terrasse d’une telle résidence, il est interdit à quiconque d’organiser
-ou de participer à une activité de karaoké;
+ou de participer à une activité de karadoké;
 
 20° dans une salle d’entraînement physique, l’exploitant doit tenir un
 registre de tout client admis dans son établissement;
