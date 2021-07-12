@@ -253,7 +253,7 @@ assimilé à une table;
 
 QUE, sous réserve des mesures particulières prévues par le présent
 décret ou par tout décret ou arrêté pris subséquemment, dans tout lieu, une personne
-maintienne, dans la mesure du possible, une distance de deux mètres avec toute autre
+maintienne, dans la mesure du possible, une distance d'un mètre avec toute autre
 personne, sauf :
 ==============
 
@@ -292,7 +292,7 @@ responsabilité;
 # Alinéa 5
 
 QUE, dans toute aire commune d’un centre commercial, d’un parc
-aquatique, d’un parc d’attractions ou d’un site thématique, une distance de deux mètres
+aquatique, d’un parc d’attractions ou d’un site thématique, une distance d'un mètre
 soit maintenue entre toute personne qui y circule, sauf :
 ================
 
@@ -301,42 +301,12 @@ qui en tient lieu;
 
 2° si l’une reçoit de l’autre un service ou son soutien;
 
-# Alinéa 6 
-
-QUE, dans les salles de classe des établissements universitaires,
-des collèges, des établissements d’enseignement collégial privés et des autres
-établissements qui dispensent des services d’enseignement de niveau collégial ou
-universitaire ou des services de formation continue, dans les salles où sont dispensés
-les services éducatifs et d’enseignement de la formation professionnelle et de la
-formation générale des adultes et dans les salles d’audience, une distance minimale de
-1,5 mètre soit maintenue latéralement entre les étudiants, les élèves ou les personnes
-du public lorsqu’ils sont assis, à moins :
-
-    1° qu’il s’agisse d’occupants d’une même résidence privée ou de ce
-    qui en tient lieu;
-
-    2° que l’une des personnes reçoive d’une autre personne un service
-    ou son soutien;
-
-    3° qu’il s’agisse d’élèves de l’éducation préscolaire ou de
-    l’enseignement primaire ou secondaire de la formation générale des jeunes d’un même
-    groupe, lorsqu’ils bénéficient de tout service offert par un centre de services scolaire, une
-    commission scolaire ou un établissement d’enseignement privé;
-
 # Alinéa 7
 
-QUE les personnes rassemblées qui exercent leur droit de manifester
-pacifiquement :
-
-1° portent un couvre-visage; 
-  
-2° maintiennent entre elles une distance de deux mètres avec toute
-personne, sauf si une personne reçoit d’une autre personne un service ou son soutien;
-
-# Aliné 8
-QUE l’organisateur de tout rassemblement aux fins de l’exercice du
-droit de manifester pacifiquement soit tenu de prendre des mesures pour informer les
-participants qu’ils doivent porter un couvre-visage;
+QUE les personnes rassemblées qui exercent leur droit de
+manifester pacifiquement maintiennent entre elles une distance d’un mètre
+avec toute personne, sauf si une personne reçoit d’une autre personne un
+service ou son soutien;
 
 # Alinéa 9 
 
@@ -367,10 +337,22 @@ manger, ou à des fins d’identification;
 
 7° qu’elle y travaille ou y exerce sa profession;
 
-8° qu’il s’agisse d’une personne du public, d’un élève ou d’un étudiant
-qui se trouve dans un lieu visé au sixième alinéa ou au paragraphe 14° du seizième
-alinéa, dans la mesure où les conditions qui y
-sont prévues sont respectées;
+8° qu’il s’agisse d’un élève ou d’un étudiant qui se trouve
+assis dans une salle de classe d’un établissement universitaire, d’un
+collège, d’un établissement d’enseignement collégial privé ou d’un autre
+établissement qui dispense des services d’enseignement de niveau
+collégial ou universitaire ou des services de formation continue ou dans une
+salle où sont dispensés les services éducatifs et d’enseignement de la
+formation professionnelle et de la formation générale des adultes et qui
+maintient latéralement une distance minimale d’un mètre avec toute autre
+personne qui n’est ni un occupant d’une même résidence privée ou de ce
+qui en tient lieu, ni une personne qui lui fournit un service ou un soutien;
+
+8.1° qu’il s’agisse d’une personne du public qui se trouve
+assise dans une salle d’audience et qui maintient latéralement une distance
+minimale d’un mètre avec toute autre personne qui n’est ni un occupant
+d’une même résidence privée ou de ce qui en tient lieu, ni une personne qui
+lui fournit un service ou un soutien;
 
 9° qu’elle se trouve dans une salle d’audience sans être visée au
 paragraphe précédent, ou dans une salle de délibération des jurés;
@@ -383,7 +365,8 @@ de consommation de boissons;
 11° qu’elle soit assise dans un endroit autre qu’un lieu de culte et
 qu’elle respecte l’une des conditions suivantes :
 
-    a) une distance de deux mètres est maintenue avec toute autre
+    a) une distance de deux mètres, ou d’un mètre si les personnes
+    demeurent silencieuses ou ne parlent qu’à voix basse, est maintenue avec toute autre
     personne qui n’est ni un occupant d’une même résidence privée ou de ce qui en tient lieu,
     ni une personne qui lui fournit un service ou un soutien;
 
@@ -508,11 +491,12 @@ recevoir ou y offrir un service ou un soutien, selon le cas, et qui n’en est p
 5° dans un bâtiment abritant un lieu de culte :
 
     a) un maximum de 250 personnes peuvent faire partie de l’assistance
-    pour l’ensemble de ce bâtiment; 
-    
-    b) une distance minimale de deux mètres est maintenue entre les
-    personnes qui s’y trouvent, même lorsqu’elles demeurent à leur place et ne circulent pas,
-    à moins :
+    pour l’ensemble de ce bâtiment;   
+
+    b) les personnes qui s’y trouvent maintiennent une
+    distance minimale de deux mètres ou d’un mètre si les personnes
+    demeurent silencieuses ou ne parlent qu’à voix basse, même lorsqu’elles
+    demeurent à leur place et ne circulent pas, à moins : 
 
         i. qu’il s’agisse d’occupants d’une même résidence privée ou de ce qui
         en tient lieu;
@@ -520,9 +504,8 @@ recevoir ou y offrir un service ou un soutien, selon le cas, et qui n’en est p
         ii. que l’une des personnes reçoive d’une autre personne un service ou
         son soutien;
 
-    c) les personnes respectant les conditions prévues au
-    sous-paragraphe b peuvent retirer leur couvre-visage lorsqu’elles restent silencieuses ou
-    ne s’expriment qu’à voix basse;
+    c) les personnes qui demeurent à leur place et ne circulent pas peuvent retirer leur 
+    couvre-visage lorsqu’elles restent silencieuses ou ne s’expriment qu’à voix basse;
 
     d) un ministre du culte ou une personne qui agit comme bénévole dans
     un tel lieu peut retirer son couvre-visage lorsqu’il maintient une distance minimale de
@@ -536,20 +519,27 @@ microbrasserie, une distillerie, un restaurant, une aire de restauration d’un 
 commercial ou d’un commerce d’alimentation ou dans toute autre salle utilisée à des fins
 de restauration ou de consommation d’alcool :
 
-    a)les lieux, incluant les terrasses, sontaménagés pour qu’une distance
-    de deux mètres soit maintenue entre les tables, à moins qu’une barrière physique
-    permettant de limiter la contagion ne les sépare;
+    a) à l’intérieur :
 
-    b) un maximum de 10 personnes peuvent être réunies autour d’une
-    même table située à l’intérieur, sauf s’il s’agit des occupants d’un maximum de trois
-    résidences privées ou de ce qui en tient lieu;
+        i. les lieux sont aménagés pour qu’une distance minimale de
+        deux mètres soit maintenue entre les tables, à moins qu’une barrière
+        physique permettant de limiter la contagion ne les sépare;
+        
+        ii. un maximum de 10 personnes peuvent être réunies autour
+        d’une même table située à l’intérieur, sauf s’il s’agit des occupants d’un
+        maximum de trois résidences privées ou de ce qui en tient lieu;
 
-    c) un maximum de 20 personnes peuvent être réunies autour d’une
-    même table située à l’extérieur, sauf s’il s’agit des occupants d’un maximum de trois
-    résidences privées ou de ce qui en tient lieu;
+    b) à l’extérieur :
 
-    d) malgré les sous-paragraphes b et c, peut se trouver autour d’une
-    table avec les personnes qui y sont visées :
+        i. les lieux sont aménagés pour qu’une distance minimale
+        d’un mètre soit maintenue entre les tables, à moins qu’une barrière
+        physique permettant de limiter la contagion ne les sépare;
+        
+        ii. un maximum de 20 personnes peuvent être réunies autour
+        d’une même table située à l’extérieur, sauf s’il s’agit des occupants d’un
+        maximum de trois résidences privées ou de ce qui en tient lieu; 
+
+    d) malgré le sous-sous-paragraphe ii des sous‑paragraphes a et b :
   
         i. toute personne présente pour y offrir un service ou un soutien requis
         par une personne en raison de son état de santé ou à des fins de sécurité, le cas échéant;
@@ -612,11 +602,11 @@ en tient lieu :
     a) d’un centre de services scolaire, d’une commission scolaire ou d’un
     établissement d’enseignement privé lorsqu’il offre des services aux élèves de l’éducation
     préscolaire ou de l’enseignement primaire ou secondaire de la formation générale des
-    jeunes, et ce, pourvu qu’une distance minimale de deux mètres soit maintenue entre les
+    jeunes, et ce, pourvu qu’une distance minimale d'un mètre soit maintenue entre les
     élèves de groupes différents;
 
     b) utilisée dans le cadre des activités d’un camp de vacances ou d’un
-    camp de jour, et ce, pourvu qu’une distance minimale de deux mètres soit maintenue
+    camp de jour, et ce, pourvu qu’une distance minimale d'un mètre soit maintenue
     entre les enfants de groupes différents;
 
 14° dans les cinémas et les salles où sont présentés les arts de la
@@ -648,8 +638,7 @@ spectacle intérieur, ainsi que pour un entraînement ou un évènement sportif 
             II) fixe un horaire pour les entrées et les sorties afin d’éviter les
             attroupements;
 
-    b) une distance minimale de 1,5 mètre est maintenue latéralement
-    entre les personnes qui s’y trouvent, à moins :
+    b) la distance d’une place doit être laissée libre entre chaque personne, à moins : :
 
         i. qu’il s’agisse d’occupants d’une même résidence privée ou de ce qui
         en tient lieu;
@@ -665,9 +654,16 @@ spectacle intérieur, ainsi que pour un entraînement ou un évènement sportif 
 
     c) toute personne du public demeure assise à sa place;
 
-15° malgré le paragraphe 14°, peuvent assister à un évènement ou un
-entraînement sportif amateur, sans places assignées, un maximum de 25 personnes à
-l’intérieur;
+    d) les personnes du public peuvent retirer leur couvre‑visage lorsqu’elles sont 
+    assises et qu’elles demeurent silencieuses ou ne parlent qu’à voix basse; 
+
+15° malgré le paragraphe 14°, peuvent assister à un évènement ou un entraînement amateur intérieur :
+
+    a) un maximum de 50 personnes lorsqu’elles sont assises
+    dans les gradins ou dans tout autre type d’aménagement permettant aux
+    personnes de s’asseoir à des places déterminées;
+
+    b) un maximum de 25 personnes dans les autres cas;
   
 16° lors d’un évènement extérieur ouvert au public auquel assistent ou
 participent plus de 50 personnes, incluant un festival, autre qu’un évènement se déroulant
@@ -687,7 +683,7 @@ s’appliquent :
         participants ou spectateurs se trouvent dans l’ensemble des sites et lieux;
 
         iv. sauf dans les cas prévus au sous-paragraphe c, est d’une superficie
-        minimale de 10 mètres carrés par personne du public qui participe ou assiste à
+        minimale de cinq mètres carrés par personne du public qui participe ou assiste à
         l’évènement;
 
         v. dispose de voies d’accès ne permettant pas simultanément les
@@ -720,8 +716,8 @@ s’appliquent :
 
         ii. pour une projection cinématographique, une présentation d’arts de
         la scène, y compris une diffusion, une production, un tournage audiovisuel, un spectacle
-        ou une présentation d’un entraînement ou d’un évènement sportif, une distance minimale
-        de 1 mètre est maintenue latéralement entre les personnes qui y assistent, à moins :
+        ou une présentation d’un entraînement ou d’un évènement sportif, la distance d’une
+        place doit être laissée libre entre chaque personne, à moins :
 
             I) qu’il s’agisse d’occupants d’une même résidence privée ou de ce qui
             en tient lieu;
@@ -753,6 +749,15 @@ s’appliquent :
         sorties des personnes qui assistent ou participent à l’évènement, pour chacun des sites
         et des sections, selon le cas;
 
+ 16.1° malgré le paragraphe 16°, peuvent assister à un évènement ou un entraînement amateur extérieur:
+
+    a) un maximum de 100 personnes assises dans les gradins
+    ou dans tout autre type d’aménagement permettant aux personnes de
+    s’asseoir à des places déterminées;
+
+    b) un maximum de 50 personnes, dans les autres cas;
+
+
 17° dans les ciné-parcs ou tout autre lieu utilisé à des fins similaires :
 
     a) il est possible d’assister à la présentation de films ou de toute forme
@@ -777,8 +782,15 @@ d’amusement, les centres récréatifs et les parcs aquatiques, l’exploitant 
 terrain, le balcon ou la terrasse d’une telle résidence, il est interdit à quiconque d’organiser
 ou de participer à une activité de karadoké;
 
-20° dans une salle d’entraînement physique, l’exploitant doit tenir un
-registre de tout client admis dans son établissement;
+20° dans une salle d’entraînement physique :
+
+    a) l’exploitant doit tenir un registre de tout client admis dans
+    son établissement;
+
+    b) une distance minimale de deux mètres doit être
+    maintenue en tout temps entre toute personne qui n’est ni un occupant
+    d’une même résidence privée ou de ce qui en tient lieu, ni une personne qui
+    lui fournit un service ou un soutien;
 
 21° toute activité de loisir ou de sport est suspendue, à moins :
 
@@ -794,8 +806,8 @@ registre de tout client admis dans son établissement;
 
             II) par un groupe d’au plus 25 élèves de la formation générale des
             jeunes sous la supervision constante d’une autre personne pour guider ou encadrer
-            l’activité, pourvu que les élèves de groupes différents maintiennent une distance de deux
-            mètres, dans la mesure du possible;
+            l’activité, pourvu que les élèves de groupes différents maintiennent une distance d'un
+            mètre, dans la mesure du possible;
 
     b) qu’elle soit pratiquée dans un lieu extérieur dont les activités ne sont
     pas autrement suspendues, dans l’une des situations suivantes :
@@ -810,7 +822,7 @@ registre de tout client admis dans son établissement;
 
             II) par un groupe d’au plus 50 élèves de la formation générale des
             jeunes auquel peut s’ajouter une autre personne pour guider ou encadrer l’activité, pourvu
-            que les élèves de groupes différents maintiennent une distance de deux mètres, dans la
+            que les élèves de groupes différents maintiennent une distance d'un mètre, dans la
             mesure du possible;
 
     c) qu’elle fasse partie de l’offre des programmes d’éducation physique
@@ -819,7 +831,7 @@ registre de tout client admis dans son établissement;
     éducatifs de la formation générale des jeunes ou de la formation générale aux adultes par
     un centre de services scolaire, une commission scolaire ou un établissement
     d’enseignement privé, pourvu que les élèves de groupes différents maintiennent une
-    distance de deux mètres, dans la mesure du possible;
+    distance d'un mètre, dans la mesure du possible;
 
     d) qu’elle fasse partie de l’offre d’un camp de vacances ou d’un camp
     de jour;
@@ -841,12 +853,10 @@ registre de tout client admis dans son établissement;
         Services sociaux est respecté en tout temps, autant avant, pendant et après l’intégration
         dans l’environnement protégé;
 
-22° un salon regroupant plusieurs exposants ou commerces de vente
-au détail peut se tenir dans une salle louée ou une salle communautaire, auquel cas
-l’arrêté numéro 2020-100 du 3 décembre 2020 s’applique, avec les adaptations
-nécessaires, l’organisateur du salon étant assimilé à l’exploitant d’un centre commercial
-et les exposants et commerces aux exploitants d’un établissement commercial de vente
-au détail;
+22° un salon regroupant plusieurs exposants ou
+commerces de vente au détail peut se tenir dans une salle louée ou une
+salle communautaire, auquel cas les mesures prévues au dix-huitième
+alinéa doivent être respectées;
 
 23° un maximum de 250 personnes peuvent se trouver dans une salle
 louée ou une salle communautaire mise à la disposition de quiconque, dans l’une des
@@ -891,7 +901,7 @@ ou d’y participer, sauf dans les situations suivantes :
     d’enseignement privé;
 
     c) dans le cadre d’un évènement se déroulant conformément au
-    paragraphe 16°;
+    paragraphe 16° ou 16.1°;
 
     d) dans un ciné-parc ou un autre lieu utilisé à des fins similaires,
     conformément aux conditions prévues au paragraphe 17°;
@@ -920,12 +930,21 @@ présent décret;
 pouvant s’y trouver en vertu du présent décret est dépassé;
 
 # Alinéa 18
+QUE l’exploitant d’un centre commercial ou d’un
+commerce de vente au détail, ainsi que l’organisateur d’un salon
+regroupant plusieurs exposants ou commerces de vente au détail soient
+tenus de prendre les mesures nécessaires pour assurer, en tout temps, le
+contrôle de l’achalandage de manière à ce que les règles de distanciation
+prévues au présent décret puissent être respectées;
+
+
+# Alinéa 19
 QUE le présent décret remplace le décret numéro 799-2021 du
 9 juin 2021, modifié par les arrêtés numéros 2021-043 du 11 juin 2021, 2021-044 du
 14 juin 2021, 2021-046 du 16 juin 2021, 2021-047 du 18 juin 2021 et 2021-048 du
 23 juin 2021;
 
-# Alinéa 19
+# Alinéa 20
 QUE soient abrogés :
 
 1° le onzième alinéa du décret numéro 566-2020 du 27 mai 2020,
@@ -975,10 +994,10 @@ du 28 octobre 2020, 2020-086 du 1er novembre 2020, 2020-087 du 4 novembre 2020,
 2020-106 du 20 décembre 2020, 2021-001 du 15 janvier 2021, 2021-003 du
 21 janvier 2021, 2021-004 du 27 janvier 2021 et 2021-005 du 28 janvier 2021;
 
-# Alinéa 20
+# Alinéa 21
 QUE le ministre de la Santé et des Services sociaux soit habilité à
 ordonner toute modification ou toute précision relative aux mesures prévues par le présent
 décret;
 
-# Alinéa 21
+# Alinéa 22
 QUE le présent décret prenne effet le 28 juin 2021.
